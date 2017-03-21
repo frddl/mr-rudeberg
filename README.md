@@ -1,7 +1,4 @@
 Mr.Rudeberg - Another Telegram bot for groups.
-===================
-----------
-Mr.Rudeberg - Another Telegram bot for groups.
 Add Mr.Rudeberg to a group and he will take care of everyone who uses offensive language.
 ===================
 ----------
